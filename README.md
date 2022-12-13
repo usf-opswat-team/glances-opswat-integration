@@ -1,4 +1,29 @@
-# Local Install Guide
+# Glances OPSWAT Integration
+
+Integration of [MetaDefender Cloud](https://metadefender.opswat.com/) into [Glances](https://github.com/nicolargo/glances). A capstone Computer Science and Engineering project by students at the University of South Florida, Fall 2022. This integration allows you to use MetaDefender Cloud features such as single process scanning, continuous scanning off all processes, and the ability to see threat reports for running process displayed via Glances.
+
+## Contributors
+
+- Chuong Le
+  - [GitHub](https://github.com/chuongle1994)
+  - [LinkedIn](https://www.linkedin.com/in/chuong-le-aab0a217b/)
+- Sebastian Rivera
+  - [LinkedIn](https://www.linkedin.com/in/sebastianriv/)
+  - [GitHub](https://github.com/01sebar)
+- Jaylen Brown
+  - [Github](https://github.com/JMarshalB)
+  - [LinkedIn](https://www.linkedin.com/in/jaylen-brown-6a70511a3/) 
+- Christopher Greenland
+  - [Github](https://github.com/cgreenland)
+- Eric Kemmer
+  - [GitHub](https://github.com/Airick73)
+  - [LinkedIn](https://www.linkedin.com/in/erickemmer/)
+
+## Licensing
+
+This repository contains modified code from the original Glances repository, and is thus subject to the licensing for the glances repository, which can be viewed here: https://github.com/nicolargo/glances
+
+## Local Install Guide
 
 This guide will outline how to install the OPSWAT MetaDefender Cloud implementation into Glances running on Ubuntu Desktop 22 LTS
 
